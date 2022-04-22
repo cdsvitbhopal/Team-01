@@ -1,0 +1,70 @@
+body{
+  background: #ECECEC;
+}
+#navbar {
+  background-color: #333;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+}
+
+#navbar a {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.welcome .centered{
+
+  margin-top: 100px;
+  margin-left: 20px;
+  text-align: center;
+  font-size: 2.8rem;
+  font-weight: bolder;
+  color: #4E944F;
+}
+.tag-name{
+  display: inline-block;
+  color: #fff;
+  font-weight: bolder;
+  font-size: 1.3rem;
+}
+.img-tag{
+  position: absolute;
+  margin-left: 2px;
+
+}
+.span-welcome{
+  color: #06113C;
+}
+
+.page{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
+.page{
+  max-width: 600px;
+  margin: auto;
+  background-color: white;
+  padding: 3% 10%;
+}
+.ps-img{
+  float: right;
+
+}
+.ps1-img{
+  float: right;
+  padding-left: 20px;
+}
