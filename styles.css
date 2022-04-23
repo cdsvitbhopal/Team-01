@@ -74,3 +74,6 @@ body{
 .copyright:hover{
   color: blue;
 }
+p:hover{
+  color:blue;
+}
